@@ -2,7 +2,7 @@
 open System.IO
 
 
-let nt = File.ReadAllText("F:\Shawn Google Drive\Source\Nucleotides.txt")
+let nt = File.ReadAllText("F:/Shawn Google Drive/Source/Nucleotides.txt")
 
 let Total_A = 
     String.filter(fun x -> x = 'A') nt
