@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2008
+VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.fsproj", "{42E1BC4A-13D6-45C2-AD06-7C8F073E04A2}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem1", "ConsoleApplication1\Problem1.fsproj", "{42E1BC4A-13D6-45C2-AD06-7C8F073E04A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
